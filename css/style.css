@@ -1,0 +1,104 @@
+.restaurant__title{
+    display: inline-block;
+    color: #2E266F;
+    border-left: #FE043C solid 25px;
+    width: 636px;
+    height: 105px;
+}
+
+.restaurant__para{
+    width: 609px;
+    height: 141px;
+    display: inline-block;
+}
+
+.restaurant__container{
+    display: flex;
+    margin-left: -30px;
+}
+
+.restaurant__item{
+    width: 639px;
+    height: 636px;
+    margin-left: 30px;
+}
+
+
+.restaurant__Firewater{
+    position: absolute;
+    width: 639px;
+    height: 253px;
+    left: 10px;
+    top: 582px;   
+    background: #FE043C;
+    opacity: 0.7;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.restaurant__btn--fire{
+    width: 208px;
+    height: 58px;   
+    background: #FFFFFF;
+    border-radius: 100px 0px 0px 100px;
+    position: absolute;
+    left: 431px;
+}
+
+.restaurant__booknow--fire{
+    position: absolute;
+    width: 80px;
+    height: 19px;
+    left: 80px;
+    color: #FE043C;
+}
+
+.restaurant__Wonton{
+    position: absolute;
+    width: 639px;
+    height: 253px;
+    left: 648px;
+    top: 582px;
+
+    background: #FE043C;
+    opacity: 0.7;
+    border-radius: 0px 0px 20px 20px;
+}
+
+.restaurant__btn--wonton{
+    position: absolute;
+    width: 208px;
+    height: 58px;
+    left: 430px;
+    background: #FFFFFF;
+    border-radius: 100px 0px 0px 100px;
+}
+
+.restaurant__booknow--wonton{
+    position: absolute;
+    width: 80px;
+    height: 19px;
+    left: 80px;
+    color: #FE043C;
+}
+
+.restaurant__content--title{
+    color: #FFFFFF;
+    font-size: 24px;
+}
+
+.restaurant__content{
+    color: #FFFFFF;
+    font-size: 14px;
+    width: 386px;
+    height: 43px;
+}
+.restaurant__address{
+    color: #FFFFFF;
+    font-size: 14px;
+    display: inline-block;
+    width: 83;
+    height: 12;
+}
+
+
+
